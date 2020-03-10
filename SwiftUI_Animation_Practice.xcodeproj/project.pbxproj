@@ -14,6 +14,7 @@
 		CED3D4402416F395008C3124 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED3D43F2416F395008C3124 /* Preview Assets.xcassets */; };
 		CED3D4432416F395008C3124 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED3D4412416F395008C3124 /* LaunchScreen.storyboard */; };
 		CED3D44B24173968008C3124 /* Exercise_Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED3D44A24173968008C3124 /* Exercise_Two.swift */; };
+		CED3D44D24174909008C3124 /* Exercise_Three.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED3D44C24174909008C3124 /* Exercise_Three.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CED3D4422416F395008C3124 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CED3D4442416F395008C3124 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CED3D44A24173968008C3124 /* Exercise_Two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise_Two.swift; sourceTree = "<group>"; };
+		CED3D44C24174909008C3124 /* Exercise_Three.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise_Three.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CED3D4382416F394008C3124 /* SceneDelegate.swift */,
 				CED3D43A2416F394008C3124 /* ContentView.swift */,
 				CED3D44A24173968008C3124 /* Exercise_Two.swift */,
+				CED3D44C24174909008C3124 /* Exercise_Three.swift */,
 				CED3D43C2416F395008C3124 /* Assets.xcassets */,
 				CED3D4412416F395008C3124 /* LaunchScreen.storyboard */,
 				CED3D4442416F395008C3124 /* Info.plist */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CED3D44D24174909008C3124 /* Exercise_Three.swift in Sources */,
 				CED3D4372416F394008C3124 /* AppDelegate.swift in Sources */,
 				CED3D4392416F394008C3124 /* SceneDelegate.swift in Sources */,
 				CED3D44B24173968008C3124 /* Exercise_Two.swift in Sources */,
