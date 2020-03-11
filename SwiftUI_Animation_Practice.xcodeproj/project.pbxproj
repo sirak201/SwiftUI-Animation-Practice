@@ -15,6 +15,7 @@
 		CED3D4432416F395008C3124 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED3D4412416F395008C3124 /* LaunchScreen.storyboard */; };
 		CED3D44B24173968008C3124 /* Exercise_Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED3D44A24173968008C3124 /* Exercise_Two.swift */; };
 		CED3D44D24174909008C3124 /* Exercise_Three.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED3D44C24174909008C3124 /* Exercise_Three.swift */; };
+		CED3D45124181362008C3124 /* Exercise_Four.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED3D45024181362008C3124 /* Exercise_Four.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CED3D4442416F395008C3124 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CED3D44A24173968008C3124 /* Exercise_Two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise_Two.swift; sourceTree = "<group>"; };
 		CED3D44C24174909008C3124 /* Exercise_Three.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise_Three.swift; sourceTree = "<group>"; };
+		CED3D45024181362008C3124 /* Exercise_Four.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise_Four.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				CED3D43A2416F394008C3124 /* ContentView.swift */,
 				CED3D44A24173968008C3124 /* Exercise_Two.swift */,
 				CED3D44C24174909008C3124 /* Exercise_Three.swift */,
+				CED3D45024181362008C3124 /* Exercise_Four.swift */,
 				CED3D43C2416F395008C3124 /* Assets.xcassets */,
 				CED3D4412416F395008C3124 /* LaunchScreen.storyboard */,
 				CED3D4442416F395008C3124 /* Info.plist */,
@@ -157,6 +160,7 @@
 				CED3D4392416F394008C3124 /* SceneDelegate.swift in Sources */,
 				CED3D44B24173968008C3124 /* Exercise_Two.swift in Sources */,
 				CED3D43B2416F394008C3124 /* ContentView.swift in Sources */,
+				CED3D45124181362008C3124 /* Exercise_Four.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
